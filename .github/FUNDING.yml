@@ -1,2 +1,3 @@
-buy_me_a_coffee: downness
-custom: www.paypal.me/downness
+
+buy_me_a_coffee: downness 
+custom: ["https://paypal.com/paypalme/downness"] 
